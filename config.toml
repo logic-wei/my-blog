@@ -1,8 +1,9 @@
-baseURL = "https://logic-wei.github.io"
+baseURL = "https://logic-wei.github.io/my-blog"
 title = "Logic Wei"
 themesDir = "./themes/"
 theme = "hugo-theme-m10c"
 paginate = 5
+publishDir = "docs"
 
 [params]
   author = "John Doe"
